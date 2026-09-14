@@ -80,15 +80,14 @@ After building a strong C++ foundation, the repository will move into **Data Str
 ```text
 Learning-Cpp-and-DSA/
 │
-├── 01-Introduction/
-├── 02-Fundamentals/
-├── 03-Control-Flow/
-├── 04-Functions/
-├── 05-Arrays/
-├── 06-Strings/
-├── 07-Pointers/
-├── 08-Dynamic-Memory/
-├── 09-Structures-Unions/
+├── 01-Fundamentals/
+├── 02-Control-Flow/
+├── 03-Functions/
+├── 04-Arrays/
+├── 05-Strings/
+├── 06-Pointers/
+├── 07-Dynamic-Memory/
+├── 08-Structures-Unions/
 │
 ├── 10-Classes-Objects/
 ├── 11-Constructors/
@@ -151,9 +150,9 @@ The goal is to understand **why the code works**, not just memorize syntax.
 
 ### C++ Core
 
-- [ ] Introduction to C++
-- [ ] Fundamentals
-- [ ] Control Flow
+- [x] Introduction to C++
+- [x] Fundamentals
+- [x] Control Flow
 - [ ] Functions
 - [ ] Arrays
 - [ ] Strings
